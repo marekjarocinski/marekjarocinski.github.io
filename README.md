@@ -2,13 +2,18 @@
 
 I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). The views expressed on this website are my own and do not reflect the views of any institution.
 
+My profiles at:
+[[Repec](https://ideas.repec.org/e/pja165.html)]
+[[Google Scholar](https://scholar.google.com/citations?user=qnXlmMgAAAAJ&hl=en)]
+[[ECB](https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html)]
+
 **News**: My paper with Peter Karadi received the [2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
 
 
 ## Working Papers
 
 [Central Bank Information Effects and Transatlantic Spillovers](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf), 2020, ECB Working Paper No. 2482.
-[Shocks](files/shocks_match.zip)
+[[Shocks](files/shocks_match.zip)]
 
 
 ## Published Papers
@@ -77,10 +82,3 @@ with [Antonio Ciccone](https://www.antoniociccone.eu/),
 [House Prices and the stance of Monetary Policy](https://files.stlouisfed.org/files/htdocs/publications/review/08/07/Jarocinski.pdf), 
 with [Frank Smets](https://sites.google.com/view/frank-smets/), 
 2008, Federal Reserve Bank of St. Louis Review
-
-My profile in Repec
-https://ideas.repec.org/e/pja165.html
-
-My profile at the ECB
-https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html
-
