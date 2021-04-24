@@ -1,11 +1,12 @@
 ![Image](files/marek-image191-ecb.jpg)
 
-I am a Principal Economist in the Monetary Policy Research Division at the European Central Bank. The views expressed on this website are my own and do not reflect the views of any institution.
+I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). The views expressed on this website are my own and do not reflect the views of any institution.
 
 
 ## Working Papers
 
-[Central Bank Information Effects and Transatlantic Spillovers](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf), 2020, ECB Working Paper No. 2482. Shocks
+[Central Bank Information Effects and Transatlantic Spillovers](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf), 2020, ECB Working Paper No. 2482.
+[Shocks](files/shocks_match.zip)
 
 
 ## Published Papers
