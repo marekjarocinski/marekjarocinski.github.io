@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+![Image](files/marek-image191-ecb.jpg)
 
-You can use the [editor on GitHub](https://github.com/marekjarocinski/marekjarocinski.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Principal Economist in the Monetary Policy Research Division at the European Central Bank. The views expressed on this website are my own and do not reflect the views of any institution.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Working Papers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Central Bank Information Effects and Transatlantic Spillovers](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf), 2020, ECB Working Paper No. 2482. Shocks
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Published Papers
 
-- Bulleted
-- List
+[Deconstructing Monetary Policy Surprises - The Role of Information Shocks](http://doi.org/10.1257/mac.20180090), with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 2020, American Economic Journal: Macroeconomics; [VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy); Shocks updated until mid-2019
 
-1. Numbered
-2. List
+[Vulnerable growth in the euro area: Measuring the financial conditions](https://doi.org/10.1016/j.econlet.2020.109126), 
+with [Juan Manuel Figueres](https://sites.google.com/site/juanmanuelfigueres/home), 
+2020, Economics Letters
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Priors about Observables in Vector Autoregressions](https://doi.org/10.1016/j.jeconom.2018.12.023), with [Albert Marcet](https://ideas.repec.org/e/pma173.html), 2019, Journal of Econometrics
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Missing disinflation and missing inflation: a VAR perspective](https://www.ijcb.org/journal/ijcb19q1a5.htm), with [Elena Bobeica](https://www.ecb.europa.eu/pub/research/authors/profiles/elena-bobeica.en.html), 2019, International Journal of Central Banking
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marekjarocinski/marekjarocinski.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Macroeconomic stabilization, monetary-fiscal interactions, and Europe's monetary union](https://doi.org/10.1016/j.ejpoleco.2018.07.001), 
+with [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/), 
+[Luca Dedola](https://www.ecb.europa.eu/pub/research/authors/profiles/luca-dedola.en.html), 
+[Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/), 
+[Sebastian Schmidt](https://sites.google.com/site/econschmidt/), 
+2019, European Journal of Political Economy; 
+[VoxEU](https://voxeu.org/article/business-cycle-stabilisation-eurozone)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+An inflation-predicting measure of the output gap in the euro area, with Michele Lenza, 2018, Journal of Money, Credit and Banking
+https://doi.org/10.1111/jmcb.12496
+https://www.ecb.europa.eu/pub/research/authors/profiles/michele-lenza.en.html
+
+Monetary-fiscal interactions and the euro area's malaise, 
+with Bartosz Maćkowiak, 
+2018, Journal of International Economics
+https://doi.org/10.1016/j.jinteco.2017.12.006
+https://sites.google.com/site/bartoszamackowiak/
+
+
+[Granger-causal priority and choice of variables in vector autoregressions](https://doi.org/10.1162/REST_a_00601), 
+with [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/), 2017, Review of Economics and Statistics
+
+
+[A note on implementing the Durbin and Koopman simulation smoother](https://doi.org/10.1016/j.csda.2015.05.001), 2015, Computational Statistics and Data Analysis
+[matlab example at runmycode.org](http://www.runmycode.org/companion/view/907)
+
+
+[Determinants of Economic Growth: Will Data tell?](https://doi.org/10.1257/mac.2.4.222), 
+with [Antonio Ciccone](https://www.antoniociccone.eu/), 
+2010, American Economic Journal: Macroeconomics
+
+
+
+[Responses to monetary policy shocks in the east and the west of Europe: a comparison](https://doi.org/10.1002/jae.1082), 2010, Journal of Applied Econometrics
+
+[Conditional Forecasts and Uncertainty about Forecast Revisions in Vector Autoregressions](https://doi.org/10.1016/j.econlet.2010.05.022), 2010, Economics Letters
+
+
+
+[House Prices and the stance of Monetary Policy](https://files.stlouisfed.org/files/htdocs/publications/review/08/07/Jarocinski.pdf), 
+with [Frank Smets](https://sites.google.com/view/frank-smets/), 
+2008, Federal Reserve Bank of St. Louis Review
+
+My profile in Repec
+https://ideas.repec.org/e/pja165.html
+
+My profile at the ECB
+https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html
+
