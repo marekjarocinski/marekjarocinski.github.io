@@ -2,6 +2,8 @@
 
 I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). The views expressed on this website are my own and do not reflect the views of any institution.
 
+**News**: My paper with Peter Karadi received the [2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
+
 
 ## Working Papers
 
