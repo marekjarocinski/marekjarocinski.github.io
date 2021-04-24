@@ -20,11 +20,14 @@ with [Juan Manuel Figueres](https://sites.google.com/site/juanmanuelfigueres/hom
 2020, _**Economics Letters**_
 
 
+
 [Priors about Observables in Vector Autoregressions](https://doi.org/10.1016/j.jeconom.2018.12.023), 
 with [Albert Marcet](https://ideas.repec.org/e/pma173.html), 
 2019, _**Journal of Econometrics**_
 
-[Missing disinflation and missing inflation: a VAR perspective](https://www.ijcb.org/journal/ijcb19q1a5.htm), with [Elena Bobeica](https://www.ecb.europa.eu/pub/research/authors/profiles/elena-bobeica.en.html), 2019, _**International Journal of Central Banking*__
+[Missing disinflation and missing inflation: a VAR perspective](https://www.ijcb.org/journal/ijcb19q1a5.htm), 
+with [Elena Bobeica](https://www.ecb.europa.eu/pub/research/authors/profiles/elena-bobeica.en.html), 
+2019, _**International Journal of Central Banking**_
 
 
 [Macroeconomic stabilization, monetary-fiscal interactions, and Europe's monetary union](https://doi.org/10.1016/j.ejpoleco.2018.07.001), 
