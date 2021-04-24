@@ -3,10 +3,3 @@ title: Marek Jarocinski
 description: Personal webpage
 author: Marek Jarociński
 email: marek.jarocinski at gmail.com
-footer:
-  links:
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://scholar.google.com/citations?hl=en&user=qnXlmMgAAAAJ"
-    - label: "ORCID"
-      url: "https://orcid.org/0000-0002-6345-5067"
