@@ -21,7 +21,7 @@ My profiles at:
 [Deconstructing Monetary Policy Surprises - The Role of Information Shocks](http://doi.org/10.1257/mac.20180090), 
 with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 
 2020, _**American Economic Journal: Macroeconomics**_; 
-[VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy); Shocks updated until mid-2019
+[VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy)
 
 [Vulnerable growth in the euro area: Measuring the financial conditions](https://doi.org/10.1016/j.econlet.2020.109126), 
 with [Juan Manuel Figueres](https://sites.google.com/site/juanmanuelfigueres/home), 
