@@ -1,7 +1,5 @@
 ![Image](files/marek-usvisa-201805-200.jpg)
 
-<!---<img src="files/marek-usvisa-201805-small.jpg" alt="foto" width="200"/> --->
-
 I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). The views expressed on this website are my own and do not reflect the views of any institution.
 
 My profiles at:
