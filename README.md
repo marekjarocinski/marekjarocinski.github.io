@@ -12,7 +12,7 @@ My profiles at:
 
 ## Working Papers
 
-[Central Bank Information Effects and Transatlantic Spillovers](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf), 2020, ECB Working Paper No. 2482.
+[Central Bank Information Effects and Transatlantic Spillovers](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf), 2020, ECB Working Paper No. 2482. [Revised: May 2021](files/spillovers33.pdf)
 
 
 ## Published Papers
