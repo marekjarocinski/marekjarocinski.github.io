@@ -21,7 +21,7 @@ Central Bank Information Effects and Transatlantic Spillovers, 2020, ECB Working
 with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 
 2020, _**American Economic Journal: Macroeconomics**_; 
 [VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy) -
-[YouTube](https://www.youtube.com/watch?v=Geq1Fp_uDkg) -
+[Video](https://www.youtube.com/watch?v=Geq1Fp_uDkg) -
 [[Updated shocks](files/shocks_median.zip)]
 
 [Vulnerable growth in the euro area: Measuring the financial conditions](https://doi.org/10.1016/j.econlet.2020.109126), 
