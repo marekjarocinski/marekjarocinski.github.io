@@ -7,7 +7,7 @@ My profiles at:
 [[Google Scholar](https://scholar.google.com/citations?user=qnXlmMgAAAAJ&hl=en)]
 [[ECB](https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html)]
 
-**News**: My paper with Peter Karadi received the [2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
+**News**: My paper on Deconstructing Monetary Policy Surprises co-authored with Peter Karadi received the [2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
 
 
 ## Working Papers
