@@ -68,8 +68,8 @@ with [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/),
 
 
 [A note on implementing the Durbin and Koopman simulation smoother](https://doi.org/10.1016/j.csda.2015.05.001), 
-2015, _**Computational Statistics and Data Analysis**_
-[matlab example at runmycode.org](http://www.runmycode.org/companion/view/907)
+2015, _**Computational Statistics and Data Analysis**_ -
+[[matlab example](http://www.runmycode.org/companion/view/907)]
 
 
 [Determinants of Economic Growth: Will Data tell?](https://doi.org/10.1257/mac.2.4.222), 
@@ -80,7 +80,8 @@ with [Antonio Ciccone](https://www.antoniociccone.eu/),
 2010, _**Journal of Applied Econometrics**_
 
 [Conditional Forecasts and Uncertainty about Forecast Revisions in Vector Autoregressions](https://doi.org/10.1016/j.econlet.2010.05.022), 
-2010, _**Economics Letters**_
+2010, _**Economics Letters**_ -
+[[matlab function](files/varcondfcast.m)]
 
 
 [House Prices and the stance of Monetary Policy](https://files.stlouisfed.org/files/htdocs/publications/review/08/07/Jarocinski.pdf), 
