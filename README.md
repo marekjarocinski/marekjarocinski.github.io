@@ -12,10 +12,13 @@ My profiles at:
 
 ## Working Papers
 
-Estimating Fed's Unconventional Policy Shocks, 2021, [[ECB Working Paper No. 2585](files/identkurto11.pdf)] - 
+Estimating Fed's Unconventional Policy Shocks, 2021, 
+[ECB Working Paper No. 2585](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb~0131e2da81.wp2585_en.pdf?1a5f8da121779bbdc0786459e356552f) - 
 [[Download: Fed conventional and unconventional policy shocks](files/U1bp.csv)]
 
-Central Bank Information Effects and Transatlantic Spillovers, 2020, ECB Working Paper No. 2482. [Revised: May 2021](files/spillovers33.pdf)
+Central Bank Information Effects and Transatlantic Spillovers, 2020 (Revised June 2021),
+[ECB Working Paper No. 2482](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf?9619598e5146cfa96c863a33d23e8384), 
+Revise and Resubmit in the Journal of International Economics
 
 
 ## Published Papers
