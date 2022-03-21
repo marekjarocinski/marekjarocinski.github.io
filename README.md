@@ -1,6 +1,6 @@
 ![Image](files/marek-usvisa-201805-200.jpg)
 
-I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). The views expressed on this website are my own and do not reflect the views of any institution.
+I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). Currently I am on sabbatical, spending the Spring 2022 semester at the [Columbia University](https://econ.columbia.edu/). The views expressed on this website are my own and do not reflect the views of any institution.
 
 My profiles at:
 [[Repec](https://ideas.repec.org/e/pja165.html)]
