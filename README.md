@@ -14,7 +14,7 @@ My profiles at:
 
 [Estimating the Fed's Unconventional Policy Shocks](files/identkurto14.pdf), 2021, 
 ECB Working Paper No. 2585 - 
-[[Download: Fed conventional and unconventional policy shocks](files/U1bp.csv)]
+Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shocks](files/U1s.csv)]
 
 Central Bank Information Effects and Transatlantic Spillovers, 2020 (Revised June 2021),
 [ECB Working Paper No. 2482](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf?9619598e5146cfa96c863a33d23e8384), 
