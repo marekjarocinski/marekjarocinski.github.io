@@ -1,6 +1,6 @@
 ![Image](files/marek-usvisa-201805-200.jpg)
 
-I am a Principal Economist in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). Currently I am on sabbatical, spending the Spring 2022 semester at the [Columbia University](https://econ.columbia.edu/). The views expressed on this website are my own and do not reflect the views of any institution.
+I am an economist working in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). Currently I am on a secondment to the [Federal Reserve Bank of New York](https://www.newyorkfed.org/). The views expressed on this website are my own and do not reflect the views of any institution.
 
 My profiles at:
 [[Repec](https://ideas.repec.org/e/pja165.html)]
@@ -12,7 +12,7 @@ My profiles at:
 
 ## Working Papers
 
-[Estimating the Fed's Unconventional Policy Shocks](files/identkurto14.pdf), 2021, 
+[Estimating the Fed's Unconventional Policy Shocks](files/identkurto14.pdf), 2021 (Revised June 2022), 
 ECB Working Paper No. 2585 - 
 Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shocks](files/U1s.csv)]
 
