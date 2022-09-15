@@ -7,8 +7,8 @@ My profiles at:
 [[Google Scholar](https://scholar.google.com/citations?user=qnXlmMgAAAAJ&hl=en)]
 [[ECB](https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html)]
 
-**News**: My paper on Deconstructing Monetary Policy Surprises co-authored with Peter Karadi received the [2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
-
+**News**: My paper on Deconstructing Monetary Policy Surprises co-authored with Peter Karadi received the 
+[2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
 
 ## Working Papers
 
@@ -16,12 +16,11 @@ My profiles at:
 ECB Working Paper No. 2585 - 
 Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shocks](files/U1s.csv)]
 
-Central Bank Information Effects and Transatlantic Spillovers, 2020 (Revised June 2021),
-[ECB Working Paper No. 2482](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf?9619598e5146cfa96c863a33d23e8384), 
-Revise and Resubmit in the Journal of International Economics
+## Published and Forthcoming Papers
 
-
-## Published Papers
+[Central Bank Information Effects and Transatlantic Spillovers](files/spillovers42.pdf),
+forthcoming in _**Journal of International Economics**_
+([ECB Working Paper No. 2482](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2482~ad463bbd96.en.pdf?9619598e5146cfa96c863a33d23e8384)) 
 
 [Deconstructing Monetary Policy Surprises - The Role of Information Shocks](http://doi.org/10.1257/mac.20180090), 
 with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 
