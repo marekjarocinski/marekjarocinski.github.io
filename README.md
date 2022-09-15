@@ -7,9 +7,6 @@ My profiles at:
 [[Google Scholar](https://scholar.google.com/citations?user=qnXlmMgAAAAJ&hl=en)]
 [[ECB](https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html)]
 
-**News**: My paper on Deconstructing Monetary Policy Surprises co-authored with Peter Karadi received the 
-[2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)
-
 ## Working Papers
 
 [Estimating the Fed's Unconventional Policy Shocks](files/identkurto14.pdf), 2021 (Revised June 2022), 
@@ -24,10 +21,12 @@ forthcoming in _**Journal of International Economics**_
 
 [Deconstructing Monetary Policy Surprises - The Role of Information Shocks](http://doi.org/10.1257/mac.20180090), 
 with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 
-2020, _**American Economic Journal: Macroeconomics**_; 
+2020, _**American Economic Journal: Macroeconomics**_ -
+**[2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)** -
 [VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy) -
 [Video](https://www.youtube.com/watch?v=Geq1Fp_uDkg) -
 [[Download: Updated shocks](files/shocks_median.zip)]
+
 
 [Vulnerable growth in the euro area: Measuring the financial conditions](https://doi.org/10.1016/j.econlet.2020.109126), 
 with [Juan Manuel Figueres](https://sites.google.com/site/juanmanuelfigueres/home), 
