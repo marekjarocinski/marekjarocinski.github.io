@@ -9,7 +9,7 @@ My profiles at:
 
 ## Working Papers
 
-[Estimating the Fed's Unconventional Policy Shocks](files/identkurto14.pdf), 2021 (Revised June 2022), 
+[Estimating the Fed's Unconventional Policy Shocks](files/identkurto15.pdf), 2021 (Revised November 2022), 
 ECB Working Paper No. 2585 - 
 Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shocks](files/U1s.csv)]
 
