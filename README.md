@@ -1,6 +1,6 @@
 ![Image](files/marek-usvisa-201805-200.jpg)
 
-I am an economist working in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). Currently I am on a secondment to the [Federal Reserve Bank of New York](https://www.newyorkfed.org/). The views expressed on this website are my own and do not reflect the views of any institution.
+I am an economist working in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). This is my private site and the views expressed do not necessarily reflect those of the European Central Bank.
 
 My profiles at:
 [[Repec](https://ideas.repec.org/e/pja165.html)]
@@ -13,7 +13,7 @@ My profiles at:
 ECB Working Paper No. 2585 - 
 Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shocks](files/U1s.csv)]
 
-## Published and Forthcoming Papers
+## Published Papers
 
 [Central Bank Information Effects and Transatlantic Spillovers](https://authors.elsevier.com/a/1g0oJ5330bM83),
 2022, _**Journal of International Economics**_
