@@ -24,8 +24,6 @@ with [Peter Karadi](https://sites.google.com/site/pkaradi696/),
 **[2021 AEJ Best Paper Award](https://www.aeaweb.org/about-aea/honors-awards/aej-best-papers)** -
 [VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy) -
 [Video](https://www.youtube.com/watch?v=Geq1Fp_uDkg) -
-[[Download: Updated shocks (ECB to February 2020, Fed to June 2019)](files/shocks_median.zip)]
-[[Download: ECB shocks updated to December 2021](files/ECB_shocks_until_Dec2021.zip)]
 [[Download shocks](files/jkshocks.md)]
 
 
