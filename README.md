@@ -16,7 +16,7 @@ Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shock
 ## Published Papers
 
 [Central Bank Information Effects and Transatlantic Spillovers](https://doi.org/10.1016/j.jinteco.2022.103683),
-2022, _**Journal of International Economics**_
+2022, _**Journal of International Economics**_ - [[replication package](https://data.mendeley.com/datasets/xd3h8w4rbk/1)]
 
 [Deconstructing Monetary Policy Surprises - The Role of Information Shocks](https://doi.org/10.1257/mac.20180090), 
 with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 
