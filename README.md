@@ -1,6 +1,6 @@
 ![Image](files/marek-usvisa-201805-200.jpg)
 
-I am an economist working in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). This is my private site and the views expressed do not necessarily reflect those of the European Central Bank.
+I am an economist working in the Monetary Policy Research Division at the [European Central Bank](https://www.ecb.europa.eu/). This is my private site and the views expressed here do not necessarily reflect those of the European Central Bank.
 
 My profiles at:
 [[Repec](https://ideas.repec.org/e/pja165.html)]
