@@ -1,0 +1,10 @@
+@Article{Jarocinski_Marcet_2019,
+  author={Jaroci\'nski, Marek and Marcet, Albert},
+  title={Priors about observables in vector autoregressions},
+  journal={Journal of Econometrics},
+  year=2019,
+  volume={209},
+  number={2},
+  pages={238-255},
+  doi={10.1016/j.jeconom.2018.12},
+}

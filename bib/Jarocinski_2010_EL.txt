@@ -1,0 +1,11 @@
+@Article{Jarocinski_2010_EL,
+  author={Jaroci\'nski, Marek},
+  title={Conditional forecasts and uncertainty about forecast revisions in vector autoregressions},
+  journal={Economics Letters},
+  year=2010,
+  volume={108},
+  number={3},
+  pages={257-259},
+  month={September},
+  doi={10.1016/j.econlet.2010.05.022},
+}

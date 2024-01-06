@@ -1,0 +1,10 @@
+@Article{Jarocinski_Smets_2008,
+  author={Marek Jaroci\'nski and Frank R. Smets},
+  title={House Prices and the Stance of Monetary Policy},
+  journal={Saint Louis Fed Economic Review},
+  year=2008,
+  volume={90},
+  number={4},
+  pages={339-65},
+  month={July/August}
+}

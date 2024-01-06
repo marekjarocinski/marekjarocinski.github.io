@@ -1,0 +1,11 @@
+@Article{Ciccone_Jarocinski_2010,
+  author={Antonio Ciccone and Marek Jaroci\'nski},
+  title={Determinants of Economic Growth: Will Data Tell?},
+  journal={American Economic Journal: Macroeconomics},
+  year=2010,
+  volume={2},
+  number={4},
+  pages={222-46},
+  month={October},
+  doi={10.1257/mac.2.4.222},
+}

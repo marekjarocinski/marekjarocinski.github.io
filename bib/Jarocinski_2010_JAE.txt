@@ -1,0 +1,10 @@
+@Article{Jarocinski_2010_JAE,
+  author={Marek Jaroci\'nski},
+  title={Responses to monetary policy shocks in the east and the west of {E}urope: a comparison},
+  journal={Journal of Applied Econometrics},
+  year=2010,
+  volume={25},
+  number={5},
+  pages={833-868},
+  doi={10.1002/jae.1082},
+}

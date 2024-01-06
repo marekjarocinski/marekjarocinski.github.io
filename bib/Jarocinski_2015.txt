@@ -1,0 +1,10 @@
+@Article{Jarocinski_2015,
+  author={Jaroci\'nski, Marek},
+  title={A note on implementing the {D}urbin and {K}oopman simulation smoother},
+  journal={Computational Statistics \& Data Analysis},
+  year=2015,
+  volume={91},
+  number={C},
+  pages={1-3},
+  doi={10.1016/j.csda.2015.05.00},
+}

@@ -1,0 +1,9 @@
+@Article{Figueres_Jarocinski_2020,
+  author={Figueres, Juan Manuel and Jaroci\'nski, Marek},
+  title={Vulnerable growth in the euro area: Measuring the financial conditions},
+  journal={Economics Letters},
+  year=2020,
+  volume={191},
+  number={C},
+  doi={10.1016/j.econlet.2020.10},
+}

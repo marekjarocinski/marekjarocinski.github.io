@@ -1,0 +1,10 @@
+@article{Jarocinski_Mackowiak_2018,
+  author={Marek Jaroci\'nski and Bartosz Ma\'ckowiak},
+  title={Monetary-fiscal interactions and the euro area's malaise},
+  journal={Journal of International Economics},
+  year=2018,
+  volume={112},
+  pages={251-266},
+  issn={0022-1996},
+  doi={10.1016/j.jinteco.2017.12.006},
+}

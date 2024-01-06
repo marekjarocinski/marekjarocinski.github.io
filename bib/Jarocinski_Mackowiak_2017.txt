@@ -1,0 +1,11 @@
+@Article{Jarocinski_Mackowiak_2017,
+  author={Jaroci\'nski, Marek and Ma\'ckowiak, Bartosz},
+  title={Granger-causal-priority and choice of variables in vector autoregressions},
+  journal={The Review of Economics and Statistics},
+  year=2017,
+  volume={99},
+  number={2},
+  pages={319-329},
+  month={May},
+  doi={10.1162/REST_a_00601},
+}

@@ -1,0 +1,12 @@
+@Article{Bobeica_Jarocinski_2019,
+  author={Elena Bobeica and Marek Jaroci\'nski},
+  title={{Missing Disinflation and Missing Inflation: A VAR Perspective}},
+  journal={International Journal of Central Banking},
+  year=2019,
+  volume={15},
+  number={1},
+  pages={199-232},
+  month={March},
+  doi={},
+  url={https://ideas.repec.org/a/ijc/ijcjou/y2019q1a5.html}
+}

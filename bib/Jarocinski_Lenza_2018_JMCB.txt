@@ -1,0 +1,10 @@
+@article{Jarocinski_Lenza_2018_JMCB,
+  author={Jaroci\'nski, Marek and Lenza, Michele},
+  title={An Inflation-Predicting Measure of the Output Gap in the Euro Area},
+  journal={Journal of Money, Credit and Banking},
+  year=2018,
+  volume={50},
+  number={6},
+  pages={1189-1224},
+  doi={10.1111/jmcb.12496},
+}
