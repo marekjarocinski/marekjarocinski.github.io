@@ -10,8 +10,8 @@ My profiles at:
 ## Working Papers
 
 [Estimating the Fed's Unconventional Policy Shocks](files/identkurto/Jarocinski_2024_acceptedJME.pdf), 2024, forthcoming in  _**Journal of Monetary Economics**_ -
-[[Online Appendix](files/identkurto_onlineappendix01.pdf)] -
-[[replication, shocks](files/identkurto.md)]
+[[Online Appendix](identkurto/identkurto_onlineappendix01.pdf)] -
+[[Download replication, shocks](identkurto/identkurto.md)]
 
 ## Published Papers
 
