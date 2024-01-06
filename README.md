@@ -48,7 +48,7 @@ with [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/),
 [Luca Dedola](https://www.ecb.europa.eu/pub/research/authors/profiles/luca-dedola.en.html), 
 [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/), 
 [Sebastian Schmidt](https://sites.google.com/site/econschmidt/), 
-2019, _**European Journal of Political Economy**_ 
+2019, _**European Journal of Political Economy**_ -
 [VoxEU](https://voxeu.org/article/business-cycle-stabilisation-eurozone) - [[bibtex](bib/Corsetti_etal_2019.txt)]
 
 
