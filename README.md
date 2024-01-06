@@ -16,7 +16,7 @@ My profiles at:
 ## Published Papers
 
 [Central Bank Information Effects and Transatlantic Spillovers](https://doi.org/10.1016/j.jinteco.2022.103683),
-2022, _**Journal of International Economics**_ - [[replication package](https://data.mendeley.com/datasets/xd3h8w4rbk/1)] - [[bibtex](bib/Jarocinski_2022.bib)]
+2022, _**Journal of International Economics**_ - [[replication package](https://data.mendeley.com/datasets/xd3h8w4rbk/1)] - [[bibtex](bib/Jarocinski_2022.txt)]
 
 [Deconstructing Monetary Policy Surprises - The Role of Information Shocks](https://doi.org/10.1257/mac.20180090), 
 with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 
@@ -30,17 +30,17 @@ with [Peter Karadi](https://sites.google.com/site/pkaradi696/),
 
 [Vulnerable growth in the euro area: Measuring the financial conditions](https://doi.org/10.1016/j.econlet.2020.109126), 
 with [Juan Manuel Figueres](https://sites.google.com/site/juanmanuelfigueres/home), 
-2020, _**Economics Letters**_
+2020, _**Economics Letters**_ - [[bibtex](bib/Figueres_Jarocinski_2020.txt)]
 
 
 
 [Priors about Observables in Vector Autoregressions](https://doi.org/10.1016/j.jeconom.2018.12.023), 
 with [Albert Marcet](https://ideas.repec.org/e/pma173.html), 
-2019, _**Journal of Econometrics**_
+2019, _**Journal of Econometrics**_ - [[bibtex](bib/Jarocinski_Marcet_2019.txt)]
 
 [Missing disinflation and missing inflation: a VAR perspective](https://www.ijcb.org/journal/ijcb19q1a5.htm), 
 with [Elena Bobeica](https://www.ecb.europa.eu/pub/research/authors/profiles/elena-bobeica.en.html), 
-2019, _**International Journal of Central Banking**_
+2019, _**International Journal of Central Banking**_ - [[bibtex](bib/Bobeica_Jarocinski_2019.txt)]
 
 
 [Macroeconomic stabilization, monetary-fiscal interactions, and Europe's monetary union](https://doi.org/10.1016/j.ejpoleco.2018.07.001), 
@@ -54,37 +54,37 @@ with [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/),
 
 [An inflation-predicting measure of the output gap in the euro area](https://doi.org/10.1111/jmcb.12496), 
 with [Michele Lenza](https://www.ecb.europa.eu/pub/research/authors/profiles/michele-lenza.en.html), 
-2018, _**Journal of Money, Credit and Banking**_
+2018, _**Journal of Money, Credit and Banking**_ - [[bibtex](bib/Jarocinski_Lenza_2018_JMCB.txt)]
 
 
 
 [Monetary-fiscal interactions and the euro area's malaise](https://doi.org/10.1016/j.jinteco.2017.12.006), 
 with [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/), 
-2018, _**Journal of International Economics**_
+2018, _**Journal of International Economics**_ - [[bibtex](bib/Jarocinski_Mackowiak_2018.txt)]
 
 
 [Granger-causal priority and choice of variables in vector autoregressions](https://doi.org/10.1162/REST_a_00601), 
 with [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/), 
-2017, _**Review of Economics and Statistics**_
+2017, _**Review of Economics and Statistics**_ - [[bibtex](bib/Jarocinski_Mackowiak_2017.txt)]
 
 
 [A note on implementing the Durbin and Koopman simulation smoother](https://doi.org/10.1016/j.csda.2015.05.001), 
 2015, _**Computational Statistics and Data Analysis**_ -
-[[matlab example](http://www.runmycode.org/companion/view/907)]
+[[matlab example](http://www.runmycode.org/companion/view/907)] - [[bibtex](bib/Jarocinski_2015.txt)]
 
 
 [Determinants of Economic Growth: Will Data tell?](https://doi.org/10.1257/mac.2.4.222), 
 with [Antonio Ciccone](https://www.antoniociccone.eu/), 
-2010, _**American Economic Journal: Macroeconomics**_
+2010, _**American Economic Journal: Macroeconomics**_ - [[bibtex](bib/Ciccone_Jarocinski_2010.txt)]
 
 [Responses to monetary policy shocks in the east and the west of Europe: a comparison](https://doi.org/10.1002/jae.1082), 
-2010, _**Journal of Applied Econometrics**_
+2010, _**Journal of Applied Econometrics**_ - [[bibtex](bib/Jarocinski_2010_JAE.txt)]
 
 [Conditional Forecasts and Uncertainty about Forecast Revisions in Vector Autoregressions](https://doi.org/10.1016/j.econlet.2010.05.022), 
 2010, _**Economics Letters**_ -
-[[matlab function](files/varcondfcast.m)]
+[[matlab function](files/varcondfcast.m)] - [[bibtex](bib/Jarocinski_2010_EL.txt)]
 
 
 [House Prices and the stance of Monetary Policy](https://files.stlouisfed.org/files/htdocs/publications/review/08/07/Jarocinski.pdf), 
 with [Frank Smets](https://sites.google.com/view/frank-smets/), 
-2008, Federal Reserve Bank of St. Louis Review
+2008, Federal Reserve Bank of St. Louis Review - [[bibtex](bib/Jarocinski_Smets_2008.txt)]
