@@ -9,9 +9,9 @@ My profiles at:
 
 ## Working Papers
 
-[Estimating the Fed's Unconventional Policy Shocks](files/identkurto16.pdf), 2021 (Revised June 2023), 
-ECB Working Paper No. 2585 - 
-Download: [[1 basis point shocks](files/U1bp.csv)]; [[1 standard deviation shocks](files/U1s.csv)]
+[Estimating the Fed's Unconventional Policy Shocks](files/identkurto/Jarocinski_2024_acceptedJME.pdf), 2024, forthcoming in the  _**Journal of Monetary Economics**_ -
+[[Online Appendix](files/identkurto/identkurto_onlineappendix01.pdf)] -
+[[replication, shocks](files/identkurto/identkurto.md)]
 
 ## Published Papers
 
