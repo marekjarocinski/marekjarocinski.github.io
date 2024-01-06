@@ -49,7 +49,7 @@ with [Giancarlo Corsetti](https://sites.google.com/site/giancarlocorsetti/),
 [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/), 
 [Sebastian Schmidt](https://sites.google.com/site/econschmidt/), 
 2019, _**European Journal of Political Economy**_ 
-[VoxEU](https://voxeu.org/article/business-cycle-stabilisation-eurozone)
+[VoxEU](https://voxeu.org/article/business-cycle-stabilisation-eurozone) - [[bib](bib/Corsetti_etal_2019.txt)]
 
 
 [An inflation-predicting measure of the output gap in the euro area](https://doi.org/10.1111/jmcb.12496), 
