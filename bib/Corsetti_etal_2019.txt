@@ -1,0 +1,11 @@
+@article{Corsetti_etal_2019,
+author = {Giancarlo Corsetti and Luca Dedola and Marek Jarociński and Bartosz Maćkowiak and Sebastian Schmidt},
+title = {Macroeconomic stabilization, monetary-fiscal interactions, and {E}urope's monetary union},
+journal = {European Journal of Political Economy},
+volume = {57},
+pages = {22-33},
+year = {2019},
+note = {Fiscal Frameworks in Europe},
+issn = {0176-2680},
+doi = {10.1016/j.ejpoleco.2018.07.001},
+}
