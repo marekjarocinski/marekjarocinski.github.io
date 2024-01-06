@@ -1,7 +1,6 @@
-Online Appendix
+[Replication(identkurto_replicate.zip)]
 
-Replication
+[Replication - Appendix(identkurto_replicate_appendix.zip)]
 
-Replication - Appendix
+[Download shocks(U1s.csv)]
 
-Download shocks
