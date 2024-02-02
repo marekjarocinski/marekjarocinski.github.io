@@ -1,0 +1,8 @@
+@article{Jarocinski_2024,
+author = {Marek Jarociński},
+title = {Estimating the {F}ed’s unconventional policy shocks},
+journal = {Journal of Monetary Economics},
+year = {2024},
+issn = {0304-3932},
+doi = {10.1016/j.jmoneco.2024.01.001},
+}
