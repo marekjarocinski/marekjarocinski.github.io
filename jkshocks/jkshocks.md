@@ -4,7 +4,7 @@
 
 [[Download: ECB shocks updated until October 2022](ECB_shocks_until_Oct2022.zip)] <-obsolete
 
-[Download: ECB shocks updated until June 2023](ECB_shocks_until_2023Jun.zip) <-obsolete
+[[Download: ECB shocks updated until June 2023](ECB_shocks_until_2023Jun.zip)] <-obsolete
 
 [Download: ECB shocks updated until October 2023](https://github.com/marekjarocinski/jkshocks_update_ecb_202310) <-latest available ECB shocks
 
