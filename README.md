@@ -11,7 +11,7 @@ My profiles at:
 
 [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001), 2024, _**Journal of Monetary Economics**_ - [[bibtex](bib/Jarocinski_2024.txt)] -
 [[Online Appendix](identkurto/identkurto_onlineappendix01.pdf)] -
-[[Download replication and shocks](identkurto/identkurto.md)]
+[[Download replication and updated shocks until 2024](identkurto/identkurto.md)]
 
 [Global Spillovers from Multi-dimensional US Monetary Policy](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2881~a2c5c8070a.en.pdf?2b1e4e1086b6dab3280a0feba0de5e6e), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), ECB Working Paper 2881 - Coverage on [www.centralbanking.com](https://www.centralbanking.com/central-banks/monetary-policy/7960462/ecb-paper-attempts-to-measure-spillovers-from-fed-policy)
 
