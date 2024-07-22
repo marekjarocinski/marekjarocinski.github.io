@@ -25,7 +25,7 @@ with [Peter Karadi](https://sites.google.com/site/pkaradi696/),
 [VoxEU](https://voxeu.org/article/central-bank-announcements-and-transmission-monetary-policy) -
 [Video](https://www.youtube.com/watch?v=Geq1Fp_uDkg) -
 [[bibtex](bib/Jarocinski_Karadi_2020.txt)] -
-[[Download shocks <- **UPDATED in April 2024**](jkshocks/jkshocks.md)]
+[[Download shocks <- **UPDATED in July 2024**](jkshocks/jkshocks.md)]
 
 
 [Vulnerable growth in the euro area: Measuring the financial conditions](https://doi.org/10.1016/j.econlet.2020.109126), 
