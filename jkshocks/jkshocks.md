@@ -1,4 +1,4 @@
-[Download: Fed shocks updated until June 2024](https://github.com/marekjarocinski/jkshocks_update_fed)
+[Download: Fed shocks updated until September 2024](https://github.com/marekjarocinski/jkshocks_update_fed)
 
 [Download: ECB shocks updated until October 2023](https://github.com/marekjarocinski/jkshocks_update_ecb_202310)
 
