@@ -9,6 +9,8 @@ My profiles at:
 
 ## Papers
 
+[Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://cepr.org/publications/dp19923), 2025, CEPR Discussion Paper No. 19923
+
 [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001), 2024, _**Journal of Monetary Economics**_ - [[bibtex](bib/Jarocinski_2024.txt)] -
 [[Online Appendix](identkurto/identkurto_onlineappendix01.pdf)] -
 [[Download replication and updated shocks until 2024](identkurto/identkurto.md)]
