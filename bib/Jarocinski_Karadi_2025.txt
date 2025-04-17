@@ -1,0 +1,8 @@
+@techreport{Jarocinski_Karadi_2025,
+  author={Jaroci\'nski, Marek and Karadi, Peter},
+  title={Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks},
+  year={2025},
+  type = {CEPR Discussion Paper},
+  number = {19923},
+  url = {https://cepr.org/publications/dp19923},
+}
