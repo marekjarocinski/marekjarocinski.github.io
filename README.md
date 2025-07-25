@@ -17,7 +17,7 @@ My profiles at:
 [[Online Appendix](identkurto/identkurto_onlineappendix01.pdf)] -
 [[Download replication and updated shocks until 2024](identkurto/identkurto.md)]
 
-[Global Spillovers from Multi-dimensional US Monetary Policy](files/US_monetary_policy_normalisation.pdf), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), _**R&R Journal of International Economics**_, updated July 2025 -
+[Global Spillovers from Multi-dimensional US Monetary Policy](files/Georgiadis_Jarocinski_2025.pdf), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), _**R&R Journal of International Economics**_, updated July 2025 -
 [[replication package](https://data.mendeley.com/datasets/22kwvzy2md/1)] - 
 Coverage on [www.centralbanking.com](https://www.centralbanking.com/central-banks/monetary-policy/7960462/ecb-paper-attempts-to-measure-spillovers-from-fed-policy)
 
