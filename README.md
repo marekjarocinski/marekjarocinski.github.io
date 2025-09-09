@@ -12,14 +12,14 @@ My profiles at:
 [Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://cepr.org/publications/dp19923), 2025, CEPR Discussion Paper No. 19923 -
 [[bibtex](bib/Jarocinski_Karadi_2025.txt)]
 
+[Global Spillovers from Multi-dimensional US Monetary Policy](files/Georgiadis_Jarocinski_2025.pdf), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), _**Journal of International Economics**_, forthcoming -
+[[replication package](https://data.mendeley.com/datasets/22kwvzy2md/1)] - 
+Coverage on [www.centralbanking.com](https://www.centralbanking.com/central-banks/monetary-policy/7960462/ecb-paper-attempts-to-measure-spillovers-from-fed-policy)
+
 [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001), 2024, _**Journal of Monetary Economics**_ -
 [[bibtex](bib/Jarocinski_2024.txt)] -
 [[Online Appendix](identkurto/identkurto_onlineappendix01.pdf)] -
 [[Download replication and updated shocks until 2024](identkurto/identkurto.md)]
-
-[Global Spillovers from Multi-dimensional US Monetary Policy](files/Georgiadis_Jarocinski_2025.pdf), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), _**R&R Journal of International Economics**_, updated July 2025 -
-[[replication package](https://data.mendeley.com/datasets/22kwvzy2md/1)] - 
-Coverage on [www.centralbanking.com](https://www.centralbanking.com/central-banks/monetary-policy/7960462/ecb-paper-attempts-to-measure-spillovers-from-fed-policy)
 
 [Central Bank Information Effects and Transatlantic Spillovers](https://doi.org/10.1016/j.jinteco.2022.103683),
 2022, _**Journal of International Economics**_ -
