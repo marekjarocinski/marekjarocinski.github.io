@@ -1,0 +1,11 @@
+@article{Georgiadis_Jarocinski_2025,
+  author = {Georgios Georgiadis and Marek Jarociński},
+  title = {Global Spillovers from Multi-dimensional {US} Monetary Policy},
+  journal = {Journal of International Economics},
+  year = {2025},
+  volume = {},
+  pages = {},
+  issn = {},
+  doi = {},
+  note = {forthcoming},
+}
