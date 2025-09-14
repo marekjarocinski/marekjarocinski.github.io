@@ -4,8 +4,8 @@
   journal = {Journal of International Economics},
   year = {2025},
   volume = {},
-  pages = {},
-  issn = {},
-  doi = {},
+  pages = {104169},
+  issn = {0022-1996},
+  doi = {10.1016/j.jinteco.2025.104169},
   note = {forthcoming},
 }
