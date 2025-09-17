@@ -12,7 +12,7 @@ My profiles at:
 [Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://cepr.org/publications/dp19923), 2025, CEPR Discussion Paper No. 19923 -
 [[bibtex](bib/Jarocinski_Karadi_2025.txt)]
 
-[Global Spillovers from Multi-dimensional US Monetary Policy](files/Georgiadis_Jarocinski_2025.pdf), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), 2025, _**Journal of International Economics**_, forthcoming -
+[Global Spillovers from Multi-dimensional US Monetary Policy](https://doi.org/10.1016/j.jinteco.2025.104169), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), 2025, _**Journal of International Economics**_, -
 [[replication package](https://data.mendeley.com/datasets/22kwvzy2md/1)] - 
 Coverage on [www.centralbanking.com](https://www.centralbanking.com/central-banks/monetary-policy/7960462/ecb-paper-attempts-to-measure-spillovers-from-fed-policy)
 
