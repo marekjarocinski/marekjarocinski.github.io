@@ -9,7 +9,7 @@ My profiles at:
 
 ## Papers
 
-[Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://cepr.org/publications/dp19923), 2025, CEPR Discussion Paper No. 19923 -
+[Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://cepr.org/publications/dp19923), with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 2025, CEPR Discussion Paper No. 19923 -
 [[bibtex](bib/Jarocinski_Karadi_2025.txt)]
 
 [Global Spillovers from Multi-dimensional US Monetary Policy](https://doi.org/10.1016/j.jinteco.2025.104169), with [Georgios Georgiadis](https://sites.google.com/site/georgiosgeorgiadis111/georgios-georgiadis), 2025, _**Journal of International Economics**_ -
