@@ -83,7 +83,7 @@ with [Bartosz Maćkowiak](https://sites.google.com/site/bartoszamackowiak/),
 
 
 [Determinants of Economic Growth: Will Data tell?](https://doi.org/10.1257/mac.2.4.222), 
-with [Antonio Ciccone](https://www.antoniociccone.eu/), 
+with [Antonio Ciccone](https://www.vwl.uni-mannheim.de/en/ciccone/), 
 2010, _**American Economic Journal: Macroeconomics**_ - [[bibtex](bib/Ciccone_Jarocinski_2010.txt)]
 
 [Responses to monetary policy shocks in the east and the west of Europe: a comparison](https://doi.org/10.1002/jae.1082), 
