@@ -7,6 +7,8 @@ My profiles at:
 [[Google Scholar](https://scholar.google.com/citations?user=qnXlmMgAAAAJ&hl=en)]
 [[ECB](https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html)]
 
+**News**: My paper [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001) has received the **[Journal of Monetary Economics 2025 Best Paper Award](https://sites.google.com/view/journal-of-monetary-economics/)**
+
 ## Papers
 
 [Disentangling Monetary Policy, Central Bank Information, and Fed Response to News Shocks](https://cepr.org/publications/dp19923), with [Peter Karadi](https://sites.google.com/site/pkaradi696/), 2025, CEPR Discussion Paper No. 19923 -
@@ -20,7 +22,8 @@ Coverage on [www.centralbanking.com](https://www.centralbanking.com/central-bank
 [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001), 2024, _**Journal of Monetary Economics**_ -
 [[bibtex](bib/Jarocinski_2024.txt)] -
 [[Online Appendix](identkurto/identkurto_onlineappendix01.pdf)] -
-[[Download replication and updated shocks until 2024](identkurto/identkurto.md)]
+[[Download replication and updated shocks until 2024](identkurto/identkurto.md)] -
+**[Journal of Monetary Economics 2025 Best Paper Award](https://sites.google.com/view/journal-of-monetary-economics/)**
 
 [Central Bank Information Effects and Transatlantic Spillovers](https://doi.org/10.1016/j.jinteco.2022.103683),
 2022, _**Journal of International Economics**_ -
