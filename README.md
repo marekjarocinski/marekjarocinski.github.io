@@ -7,7 +7,7 @@ My profiles at:
 [[Google Scholar](https://scholar.google.com/citations?user=qnXlmMgAAAAJ&hl=en)]
 [[ECB](https://www.ecb.europa.eu/pub/research/authors/profiles/marek-jarocinski.en.html)]
 
-**News**: My paper [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001) has received the **[Journal of Monetary Economics 2025 Best Paper Award](https://sites.google.com/view/journal-of-monetary-economics/)**
+**News**: My paper [Estimating the Fed's Unconventional Policy Shocks](https://doi.org/10.1016/j.jmoneco.2024.01.001) has received the **[Journal of Monetary Economics 2025 Best Paper Award](https://www.sciencedirect.com/journal/journal-of-monetary-economics/about/news/announcing-the-winner-of-the-2025-best-paper-award-journal-of-monetary-economics)**
 
 ## Papers
 
